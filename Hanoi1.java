@@ -23,6 +23,6 @@ public class Hanoi1 {
     }
 }
     public static void main(String[]args){
-    int noOfDisk = 4;
+    int noOfDisk = 5;
     towerOfHanoi('A','B','C',noOfDisk);}
 }
